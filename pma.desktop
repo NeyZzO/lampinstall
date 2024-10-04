@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+version=1.0
+Name=phpMyAdmin
+Comment=Outil de gestion MySQL & Mariadb
+Exec=xdg-open http://localhost/pma
+Categories=devlopement
+Icon=/var/www/html/pma/favicon.ico
